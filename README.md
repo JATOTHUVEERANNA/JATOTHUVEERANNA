@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JATOTHUVEERANNA
-- 👀 I’m interested in CODING,FULL STACK DEVELOPER,DATA ANALYST 
+- 👀 I’m interested in CODING,FULL STACK DEVELOPER 
 - 🌱 I’m currently learning C,C++, HTML,PHP,SQL,JAVASCRIPT,BOOTSTRAP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @veerannajatothu2003@gmail.com 
